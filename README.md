@@ -34,7 +34,7 @@
 
 ## 🛠️ SKILL TREE (ÁRVORE DE HABILIDADES)
 
-<img alt="João Eric" src="https://img.shields.io/badge/:badgeContent">
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
 ### 🟢 FRONT-END INTERFACE `[PROGRESSED: 85%]`
 <p align="left">
