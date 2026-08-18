@@ -2,11 +2,7 @@
 
 ![Cyberpunk Banner](https://vercel.app)
 
-<p align="center">
-  <img src="https://shields.io" alt="Level" />
-  <img src="https://shields.io" alt="Status" />
-  <img src="https://shields.io" alt="Faction" />
-</p>
+![Level](https://shields.io) ![Status](https://shields.io) ![Faction](https://shields.io)
 
 ---
 
@@ -21,32 +17,29 @@
 ## 🛠️ SKILL TREE (ÁRVORE DE HABILIDADES)
 
 ### 🟢 FRONT-END INTERFACE `[PROGRESSED: 85%]`
-<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="JavaScript" />
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io)
 
-![Barra de Progresso](https://geps.dev)
+![Barra de Progresso Front](https://geps.dev)
 
 ### 🟣 BACK-END CORE `[PROGRESSED: 75%]`
-<img src="https://shields.io" alt="PHP" /> <img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="Python" />
+![PHP](https://shields.io) ![Java](https://shields.io) ![Python](https://shields.io)
 
-![Barra de Progresso](https://geps.dev)
+![Barra de Progresso Back](https://geps.dev)
 
 ### 🔴 MOBILE & TOOLS `[PROGRESSED: 90%]`
-<img src="https://shields.io" alt="Flutter" /> <img src="https://shields.io" alt="Android Studio" />
+![Flutter](https://shields.io) ![Android Studio](https://shields.io)
 
-![Barra de Progresso](https://geps.dev)
+![Barra de Progresso Mobile](https://geps.dev)
 
 ---
 
 ## 📊 DASHBOARD DO JOGADOR (STATS)
 
-<p align="center">
-  <img height="180" src="https://vercel.app" />
-  <img height="180" src="https://vercel.app" />
-</p>
+![Stats Geral](https://vercel.app)
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="Streak Stats" />
-</p>
+![Linguagens Mais Usadas](https://vercel.app)
+
+![Streak Stats](https://herokuapp.com)
 
 ---
 
