@@ -1,42 +1,77 @@
-# Olá, eu sou o João Eric! 👋
+# 🎮 SYSTEM BOOT: JOÃO ERIC // FULLSTACK PLAYER 👋
 
-<p align="left">
-  <img src="https://shields.io🔴_Vermelho_Vivo-FF0033?style=for-the-badge" alt="Developer">
-  <img src="https://shields.io🟢_Verde_Hacker-00FF66?style=for-the-badge&logoColor=000000" alt="Fullstack">
+<p align="center">
+  <img src="https://vercel.app" alt="Cyberpunk Banner">
 </p>
 
-### 💻 Sobre Mim
-- 🚀 Desenvolvedor focado em soluções **Front-End** e **Back-End**.
-- 🛠️ Criando aplicações robustas e interfaces modernas com estética tech.
-- 🎯 Foco atual: Evoluindo em arquiteturas escaláveis e mobile.
+<p align="center">
+  <img src="https://shields.io" alt="Level">
+  <img src="https://shields.io" alt="Status">
+  <img src="https://shields.io" alt="Faction">
+</p>
 
-### 🛠️ Minhas Tecnologias
+---
 
-#### 🟢 Front-End (Verde Hacker)
+## 🕹️ SELEÇÃO DE MODO: SOBRE MIM
+```html
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p><b>⚡ DIRETRIZ PRINCIPAL:</b> Desenvolvedor Fullstack focado em interfaces críticas (Front-End) e arquiteturas de alta performance (Back-End).</p>
+      <p><b>🎯 MISSÃO ATUAL:</b> Buildando aplicações Mobile e refinando códigos na velocidade da luz.</p>
+      <p><b>🛡️ EQUIPAMENTO:</b> Android Studio, VS Code e terminais customizados.</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://giphy.com" width="120" alt="Pixel Art">
+    </td>
+  </tr>
+</table>
+```
+
+---
+
+## 🛠️ SKILL TREE (ÁRVORE DE HABILIDADES)
+
+### 🟢 FRONT-END INTERFACE `[PROGRESSED: 85%]`
 <p align="left">
   <img src="https://shields.io" alt="HTML5">
   <img src="https://shields.io" alt="CSS3">
   <img src="https://shields.io" alt="JavaScript">
 </p>
+<img src="https://geps.dev" width="250" alt="Barra de Progresso">
 
-#### 🟣 Back-End (Roxo / Cyberpunk)
+### 🟣 BACK-END CORE `[PROGRESSED: 75%]`
 <p align="left">
   <img src="https://shields.io" alt="PHP">
   <img src="https://shields.io" alt="Java">
   <img src="https://shields.io" alt="Python">
 </p>
+<img src="https://geps.dev" width="250" alt="Barra de Progresso">
 
-#### 🔴 Mobile & Ferramentas (Vermelho Vivo)
+### 🔴 MOBILE & TOOLS `[PROGRESSED: 90%]`
 <p align="left">
   <img src="https://shields.io" alt="Flutter">
   <img src="https://shields.io" alt="Android Studio">
 </p>
+<img src="https://geps.dev" width="250" alt="Barra de Progresso">
 
-### 📊 Estatísticas (Tema Cyberpunk/Radical)
+---
+
+## 📊 DASHBOARD DO JOGADOR (STATS)
 
 <p align="center">
   <img height="180" src="https://vercel.app" />
   <img height="180" src="https://vercel.app" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="Streak Stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://vercel.app" width="100%">
 </p>
 
 
