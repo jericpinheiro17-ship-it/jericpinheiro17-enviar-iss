@@ -36,7 +36,7 @@
 
 ### 🟢 FRONT-END INTERFACE `[PROGRESSED: 85%]`
 <p align="left">
-  <img src="https://shields.io" alt="HTML5">
+  <img style="background-color:black" src="https://shields.io" alt="HTML5">
   <img src="https://shields.io" alt="CSS3">
   <img src="https://shields.io" alt="JavaScript">
 </p>
