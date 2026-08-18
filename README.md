@@ -34,8 +34,6 @@
 
 ## 🛠️ SKILL TREE (ÁRVORE DE HABILIDADES)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-
 ### 🟢 FRONT-END INTERFACE `[PROGRESSED: 85%]`
 <p align="left">
   <img src="https://shields.io" alt="HTML5">
